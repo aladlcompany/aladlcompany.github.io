@@ -6,25 +6,25 @@
       "name": "م / عمرو عبدالستار العدل",
       "role": "المدير العام والمؤسس",
       "details": "يقود فريق العدل برؤية تواكب أحدث تكنولوجيات الطباعة.",
-      "image": "manager.jpg"
+      "image": "manager.webp"
     },
     {
       "name": "م / محمد فؤاد",
       "role": "مدير المبيعات",
       "details": "متابعة السوق وتوفير أنسب الحلول وأنظمة التقسيط والسداد.",
-      "image": "mohamed_fouad.jpg"
+      "image": "mohamed_fouad.webp"
     },
     {
       "name": "م / زياد العدل",
       "role": "مدير الصيانة",
       "details": "يشرف على تدريب وتوجيه فريق الصيانة وحل الأعطال الفنية بسرعة.",
-      "image": "ziad_aladl.jpg"
+      "image": "ziad_aladl.webp"
     },
     {
       "name": "أ / زهرة عبدالفتاح",
       "role": "خدمة العملاء",
       "details": "متابعة بلاغات الأعطال والاستفسارات بسرعة واهتمام.",
-      "image": "zahra_abdelFattah.jpg"
+      "image": "zahra_abdelFattah.webp"
     }
   ]
 }

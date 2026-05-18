@@ -11,7 +11,7 @@ const WHATSAPP_LOCAL = '01094799247';
 const EMBEDDED_PRODUCTS = [
   {
     "name": "ريكو Aficio MP 161",
-    "image": "images/MP 161.png",
+    "image": "images/MP 161.webp",
     "condition": "",
     "speed": "16 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -61,7 +61,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 171",
-    "image": "images/MP 171.png",
+    "image": "images/MP 171.webp",
     "condition": "",
     "speed": "17 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -111,7 +111,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 201",
-    "image": "images/MP 201.png",
+    "image": "images/MP 201.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -161,7 +161,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 301",
-    "image": "images/MP 301.png",
+    "image": "images/MP 301.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -211,7 +211,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 2352",
-    "image": "images/MP 2352.png",
+    "image": "images/MP 2352.webp",
     "condition": "",
     "speed": "23 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -261,7 +261,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 2851",
-    "image": "images/MP 2851.png",
+    "image": "images/MP 2851.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -311,7 +311,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 2852",
-    "image": "images/MP 2852.png",
+    "image": "images/MP 2852.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -361,7 +361,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 3352",
-    "image": "images/MP 3352.png",
+    "image": "images/MP 3352.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -411,7 +411,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 4000",
-    "image": "images/MP 4000.png",
+    "image": "images/MP 4000.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -461,7 +461,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 4001",
-    "image": "images/MP 4001.png",
+    "image": "images/MP 4001.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -511,7 +511,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 5000",
-    "image": "images/MP 5000.png",
+    "image": "images/MP 5000.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -561,7 +561,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 5001",
-    "image": "images/MP 5001.png",
+    "image": "images/MP 5001.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -611,7 +611,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 4002",
-    "image": "images/MP 4002.png",
+    "image": "images/MP 4002.webp",
     "condition": "عرض خاص",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600X600 dpi",
@@ -661,7 +661,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP 5002",
-    "image": "images/MP 5002.png",
+    "image": "images/MP 5002.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -707,7 +707,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 2001",
-    "image": "images/MP 2001.png",
+    "image": "images/MP 2001.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -749,7 +749,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 2501",
-    "image": "images/MP 2501.png",
+    "image": "images/MP 2501.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -791,7 +791,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 3053",
-    "image": "images/MP 3053.png",
+    "image": "images/MP 3053.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -833,7 +833,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 3353",
-    "image": "images/MP 3353.png",
+    "image": "images/MP 3353.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -875,7 +875,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 3054",
-    "image": "images/MP 3054.png",
+    "image": "images/MP 3054.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -925,7 +925,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 3554",
-    "image": "images/MP 3554.png",
+    "image": "images/MP 3554.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -975,7 +975,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP 4054",
-    "image": "images/MP 4054.png",
+    "image": "images/MP 4054.webp",
     "condition": "حديث",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1025,7 +1025,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP C305",
-    "image": "images/Mp C305.png",
+    "image": "images/Mp C305.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200 * 1200",
@@ -1042,7 +1042,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو Aficio MP C307",
-    "image": "images/Mp C307.png",
+    "image": "images/Mp C307.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200 * 1200",
@@ -1059,7 +1059,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C430",
-    "image": "images/SP C430.png",
+    "image": "images/SP C430.webp",
     "condition": "",
     "speed": "37 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1113,7 +1113,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C431",
-    "image": "images/SP C431.png",
+    "image": "images/SP C431.webp",
     "condition": "",
     "speed": "42 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1167,7 +1167,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C300",
-    "image": "images/MP C300.png",
+    "image": "images/MP C300.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1217,7 +1217,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C400",
-    "image": "images/MP C400.png",
+    "image": "images/MP C400.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1267,7 +1267,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C401",
-    "image": "images/MP C401.png",
+    "image": "images/MP C401.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1317,7 +1317,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C820",
-    "image": "images/SP C820.png",
+    "image": "images/SP C820.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1371,7 +1371,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C830",
-    "image": "images/SP C830.png",
+    "image": "images/SP C830.webp",
     "condition": "",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1425,7 +1425,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2050",
-    "image": "images/MP C2050.png",
+    "image": "images/MP C2050.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1475,7 +1475,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2550",
-    "image": "images/MP C2550.png",
+    "image": "images/MP C2550.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1525,7 +1525,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2051",
-    "image": "images/MP C2051.png",
+    "image": "images/MP C2051.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1575,7 +1575,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2551",
-    "image": "images/MP C2551.png",
+    "image": "images/MP C2551.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1625,7 +1625,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2800",
-    "image": "images/MP C2800.png",
+    "image": "images/MP C2800.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1675,7 +1675,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3300",
-    "image": "images/MP C3300.png",
+    "image": "images/MP C3300.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1767,7 +1767,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C5000",
-    "image": "images/MP C5000.png",
+    "image": "images/MP C5000.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1813,7 +1813,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3002",
-    "image": "images/MP C3002.png",
+    "image": "images/MP C3002.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1863,7 +1863,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3502",
-    "image": "images/MP C3502.png",
+    "image": "images/MP C3502.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1913,7 +1913,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C4502",
-    "image": "images/MP C4502.png",
+    "image": "images/MP C4502.webp",
     "condition": "",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1963,7 +1963,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C5502",
-    "image": "images/MP C5502.png",
+    "image": "images/MP C5502.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2013,7 +2013,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3003",
-    "image": "images/MP C3003.png",
+    "image": "images/MP C3003.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2063,7 +2063,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3503",
-    "image": "images/MP C3503.png",
+    "image": "images/MP C3503.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2113,7 +2113,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C4503",
-    "image": "images/MP C4503.png",
+    "image": "images/MP C4503.webp",
     "condition": "الأكثر مبيعاً",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2159,7 +2159,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C3004",
-    "image": "images/MP C3004.png",
+    "image": "images/MP C3004.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2201,7 +2201,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2004",
-    "image": "images/MP C2004.png",
+    "image": "images/MP C2004.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2243,7 +2243,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C2003",
-    "image": "images/MP C2003.png",
+    "image": "images/MP C2003.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2281,7 +2281,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C440",
-    "image": "images/SP C440.png",
+    "image": "images/SP C440.webp",
     "condition": "",
     "speed": "42 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2323,7 +2323,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C842",
-    "image": "images/SP C842.png",
+    "image": "images/SP C842.webp",
     "condition": "",
     "speed": "60 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2361,7 +2361,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C5503",
-    "image": "images/MP C5503.png",
+    "image": "images/MP C5503.webp",
     "condition": "استيراد",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2407,7 +2407,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو MP C5504",
-    "image": "images/MP C5504.png",
+    "image": "images/MP C5504.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2449,7 +2449,7 @@ const EMBEDDED_PRODUCTS = [
   },
   {
     "name": "ريكو SP C831",
-    "image": "images/SP C831.png",
+    "image": "images/SP C831.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2508,126 +2508,126 @@ const EMBEDDED_PAPER = [
     "price": "670",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/omnia-a4-80.png"
+    "image": "paper/omnia-a4-80.webp"
   },
   {
     "name": "مرام",
     "price": "580",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/maram-a4-70.png"
+    "image": "paper/maram-a4-70.webp"
   },
   {
     "name": "شيمكس",
     "price": "655",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/chamex-a4-80.png"
+    "image": "paper/chamex-a4-80.webp"
   },
   {
     "name": "شيمكس",
     "price": "600",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/chamex-a4-70.png"
+    "image": "paper/chamex-a4-70.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "675",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/projecta-a4-80.png"
+    "image": "paper/projecta-a4-80.webp"
   },
   {
     "name": "ازهار احمر",
     "price": "490",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/azhar-red-a4-70.png"
+    "image": "paper/azhar-red-a4-70.webp"
   },
   {
     "name": "مالتي أوفيس",
     "price": "725",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/multioffice-a4-80.png"
+    "image": "paper/multioffice-a4-80.webp"
   },
   {
     "name": "ازهار",
     "price": "565",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/azhar-a4-70.png"
+    "image": "paper/azhar-a4-70.webp"
   },
   {
     "name": "بيبروان",
     "price": "700",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/paperone-a4-80.png"
+    "image": "paper/paperone-a4-80.webp"
   },
   {
     "name": "ارتورك",
     "price": "575",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/artwork-a4-70.png"
+    "image": "paper/artwork-a4-70.webp"
   },
   {
     "name": "بريو",
     "price": "645",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/brio-a4-80.png"
+    "image": "paper/brio-a4-80.webp"
   },
   {
     "name": "ايكوروكس",
     "price": "570",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/ecorox-a4-70.png"
+    "image": "paper/ecorox-a4-70.webp"
   },
   {
     "name": "ازهار",
     "price": "685",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/azhar-laser-a4-80.png"
+    "image": "paper/azhar-laser-a4-80.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "595",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/projecta-green-a4-70.png"
+    "image": "paper/projecta-green-a4-70.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "1250",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/projecta-a3-80.png"
+    "image": "paper/projecta-a3-80.webp"
   },
   {
     "name": "مالتي أوفيس",
     "price": "1400",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/multioffice-a3-80.png"
+    "image": "paper/multioffice-a3-80.webp"
   },
   {
     "name": "شيمكس",
     "price": "1285",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/chamex-a3-80.png"
+    "image": "paper/chamex-a3-80.webp"
   },
   {
     "name": "أمنيه",
     "price": "1275",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/omnia-a3-80.png"
+    "image": "paper/omnia-a3-80.webp"
   }
 ];
 const EMBEDDED_TEAM = {
@@ -2638,25 +2638,25 @@ const EMBEDDED_TEAM = {
       "name": "م / عمرو عبدالستار العدل",
       "role": "المدير العام والمؤسس",
       "details": "يقود فريق العدل برؤية تواكب أحدث تكنولوجيات الطباعة.",
-      "image": "manager.jpg"
+      "image": "manager.webp"
     },
     {
       "name": "م / محمد فؤاد",
       "role": "مدير المبيعات",
       "details": "متابعة السوق وتوفير أنسب الحلول وأنظمة التقسيط والسداد.",
-      "image": "mohamed_fouad.jpg"
+      "image": "mohamed_fouad.webp"
     },
     {
       "name": "م / زياد العدل",
       "role": "مدير الصيانة",
       "details": "يشرف على تدريب وتوجيه فريق الصيانة وحل الأعطال الفنية بسرعة.",
-      "image": "ziad_aladl.jpg"
+      "image": "ziad_aladl.webp"
     },
     {
       "name": "أ / زهرة عبدالفتاح",
       "role": "خدمة العملاء",
       "details": "متابعة بلاغات الأعطال والاستفسارات بسرعة واهتمام.",
-      "image": "zahra_abdelFattah.jpg"
+      "image": "zahra_abdelFattah.webp"
     }
   ]
 };
