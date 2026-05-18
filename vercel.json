@@ -19,7 +19,7 @@
       ]
     },
     {
-      "source": "/whatsapp-preview-v17.webp",
+      "source": "/whatsapp-preview-v17.jpg",
       "headers": [
         {
           "key": "Cache-Control",
@@ -27,12 +27,12 @@
         },
         {
           "key": "Content-Type",
-          "value": "image/webp"
+          "value": "image/jpeg"
         }
       ]
     },
     {
-      "source": "/site-preview.webp",
+      "source": "/site-preview.png",
       "headers": [
         {
           "key": "Cache-Control",
@@ -40,7 +40,7 @@
         },
         {
           "key": "Content-Type",
-          "value": "image/webp"
+          "value": "image/png"
         }
       ]
     },
@@ -69,318 +69,6 @@
           "value": "no-cache, no-store, must-revalidate"
         }
       ]
-    },
-    {
-      "source": "/llms.txt",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/plain; charset=utf-8"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
-        }
-      ]
-    }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [
-    {
-      "source": "/about.html",
-      "destination": "/about",
-      "permanent": true
-    },
-    {
-      "source": "/appliances.html",
-      "destination": "/appliances",
-      "permanent": true
-    },
-    {
-      "source": "/articles.html",
-      "destination": "/articles",
-      "permanent": true
-    },
-    {
-      "source": "/black-white-copiers.html",
-      "destination": "/black-white-copiers",
-      "permanent": true
-    },
-    {
-      "source": "/black-white-parts.html",
-      "destination": "/black-white-parts",
-      "permanent": true
-    },
-    {
-      "source": "/black-white-toners.html",
-      "destination": "/black-white-toners",
-      "permanent": true
-    },
-    {
-      "source": "/clients.html",
-      "destination": "/clients",
-      "permanent": true
-    },
-    {
-      "source": "/color-copier-parts.html",
-      "destination": "/color-copier-parts",
-      "permanent": true
-    },
-    {
-      "source": "/color-copiers.html",
-      "destination": "/color-copiers",
-      "permanent": true
-    },
-    {
-      "source": "/color-toners.html",
-      "destination": "/color-toners",
-      "permanent": true
-    },
-    {
-      "source": "/complaints.html",
-      "destination": "/complaints",
-      "permanent": true
-    },
-    {
-      "source": "/digital-bw-printers.html",
-      "destination": "/digital-bw-printers",
-      "permanent": true
-    },
-    {
-      "source": "/digital-color-printers.html",
-      "destination": "/digital-color-printers",
-      "permanent": true
-    },
-    {
-      "source": "/digital-printer-parts.html",
-      "destination": "/digital-printer-parts",
-      "permanent": true
-    },
-    {
-      "source": "/digital-toners.html",
-      "destination": "/digital-toners",
-      "permanent": true
-    },
-    {
-      "source": "/faq.html",
-      "destination": "/faq",
-      "permanent": true
-    },
-    {
-      "source": "/gallery.html",
-      "destination": "/gallery",
-      "permanent": true
-    },
-    {
-      "source": "/index.html",
-      "destination": "/",
-      "permanent": true
-    },
-    {
-      "source": "/inkjet-printers.html",
-      "destination": "/inkjet-printers",
-      "permanent": true
-    },
-    {
-      "source": "/maintenance-contracts.html",
-      "destination": "/maintenance-contracts",
-      "permanent": true
-    },
-    {
-      "source": "/medical-printers.html",
-      "destination": "/medical-printers",
-      "permanent": true
-    },
-    {
-      "source": "/news.html",
-      "destination": "/news",
-      "permanent": true
-    },
-    {
-      "source": "/outdoor-plotter.html",
-      "destination": "/outdoor-plotter",
-      "permanent": true
-    },
-    {
-      "source": "/paper-prices.html",
-      "destination": "/paper-prices",
-      "permanent": true
-    },
-    {
-      "source": "/photographic-printers.html",
-      "destination": "/photographic-printers",
-      "permanent": true
-    },
-    {
-      "source": "/plotter-parts.html",
-      "destination": "/plotter-parts",
-      "permanent": true
-    },
-    {
-      "source": "/plotter-toners.html",
-      "destination": "/plotter-toners",
-      "permanent": true
-    },
-    {
-      "source": "/plotters.html",
-      "destination": "/plotters",
-      "permanent": true
-    },
-    {
-      "source": "/post-print-machines.html",
-      "destination": "/post-print-machines",
-      "permanent": true
-    },
-    {
-      "source": "/products.html",
-      "destination": "/products",
-      "permanent": true
-    },
-    {
-      "source": "/sales.html",
-      "destination": "/sales",
-      "permanent": true
-    },
-    {
-      "source": "/service-manual.html",
-      "destination": "/service-manual",
-      "permanent": true
-    },
-    {
-      "source": "/tech-support.html",
-      "destination": "/tech-support",
-      "permanent": true
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/about",
-      "destination": "/about.html"
-    },
-    {
-      "source": "/appliances",
-      "destination": "/appliances.html"
-    },
-    {
-      "source": "/articles",
-      "destination": "/articles.html"
-    },
-    {
-      "source": "/black-white-copiers",
-      "destination": "/black-white-copiers.html"
-    },
-    {
-      "source": "/black-white-parts",
-      "destination": "/black-white-parts.html"
-    },
-    {
-      "source": "/black-white-toners",
-      "destination": "/black-white-toners.html"
-    },
-    {
-      "source": "/clients",
-      "destination": "/clients.html"
-    },
-    {
-      "source": "/color-copier-parts",
-      "destination": "/color-copier-parts.html"
-    },
-    {
-      "source": "/color-copiers",
-      "destination": "/color-copiers.html"
-    },
-    {
-      "source": "/color-toners",
-      "destination": "/color-toners.html"
-    },
-    {
-      "source": "/complaints",
-      "destination": "/complaints.html"
-    },
-    {
-      "source": "/digital-bw-printers",
-      "destination": "/digital-bw-printers.html"
-    },
-    {
-      "source": "/digital-color-printers",
-      "destination": "/digital-color-printers.html"
-    },
-    {
-      "source": "/digital-printer-parts",
-      "destination": "/digital-printer-parts.html"
-    },
-    {
-      "source": "/digital-toners",
-      "destination": "/digital-toners.html"
-    },
-    {
-      "source": "/faq",
-      "destination": "/faq.html"
-    },
-    {
-      "source": "/gallery",
-      "destination": "/gallery.html"
-    },
-    {
-      "source": "/inkjet-printers",
-      "destination": "/inkjet-printers.html"
-    },
-    {
-      "source": "/maintenance-contracts",
-      "destination": "/maintenance-contracts.html"
-    },
-    {
-      "source": "/medical-printers",
-      "destination": "/medical-printers.html"
-    },
-    {
-      "source": "/news",
-      "destination": "/news.html"
-    },
-    {
-      "source": "/outdoor-plotter",
-      "destination": "/outdoor-plotter.html"
-    },
-    {
-      "source": "/paper-prices",
-      "destination": "/paper-prices.html"
-    },
-    {
-      "source": "/photographic-printers",
-      "destination": "/photographic-printers.html"
-    },
-    {
-      "source": "/plotter-parts",
-      "destination": "/plotter-parts.html"
-    },
-    {
-      "source": "/plotter-toners",
-      "destination": "/plotter-toners.html"
-    },
-    {
-      "source": "/plotters",
-      "destination": "/plotters.html"
-    },
-    {
-      "source": "/post-print-machines",
-      "destination": "/post-print-machines.html"
-    },
-    {
-      "source": "/products",
-      "destination": "/products.html"
-    },
-    {
-      "source": "/sales",
-      "destination": "/sales.html"
-    },
-    {
-      "source": "/service-manual",
-      "destination": "/service-manual.html"
-    },
-    {
-      "source": "/tech-support",
-      "destination": "/tech-support.html"
     }
   ]
 }

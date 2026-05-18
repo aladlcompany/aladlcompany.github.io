@@ -233,8 +233,8 @@ document.addEventListener('click', function(e) {
         return true;
     }
 
-    const currentFile = (window.location.pathname.split('/').pop() || '/').toLowerCase();
-    const isHomePage = currentFile === '' || currentFile === '/';
+    const currentFile = (window.location.pathname.split('/').pop() || 'index.html').toLowerCase();
+    const isHomePage = currentFile === '' || currentFile === 'index.html';
 
     if (isHomePage) {
         if (typeof window.navigateTo === 'function') {
@@ -242,13 +242,13 @@ document.addEventListener('click', function(e) {
         }
         setTimeout(function(){
             if (!scrollToHomeMaintenanceBox()) {
-                window.location.href = '/?scroll=maintenance';
+                window.location.href = 'index.html?scroll=maintenance';
             }
         }, 150);
         return;
     }
 
-    window.location.href = '/?scroll=maintenance';
+    window.location.href = 'index.html?scroll=maintenance';
 });
 
 })();
