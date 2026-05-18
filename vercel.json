@@ -242,15 +242,19 @@
   ],
   "rewrites": [
     {
-      "source": "/product-details/:slug",
+      "source": "/product-details/:path*",
       "destination": "/index.html"
     },
     {
-      "source": "/articles/:slug",
+      "source": "/articles/:path*",
       "destination": "/index.html"
     },
     {
-      "source": "/news/:slug",
+      "source": "/news/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/:path*",
       "destination": "/index.html"
     }
   ]
