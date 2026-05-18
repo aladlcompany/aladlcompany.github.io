@@ -1,13 +1,26 @@
-# شركة العدل
+# شركة العدل لتجارة ماكينات التصوير والطابعات
 
-شركة العدل لتجارة ماكينات التصوير والطابعات وقطع الغيار والأحبار والصيانة.
+## About
+شركة العدل متخصصة في ماكينات تصوير Ricoh والطابعات وقطع الغيار والأحبار وخدمات الدعم الفني والصيانة في جمصة - الدقهلية، مصر.
 
-## الموقع
+## Website
+https://eladlshop.vercel.app/
+
+## Core Pages
 - الصفحة الرئيسية: https://eladlshop.vercel.app/
 - المنتجات: https://eladlshop.vercel.app/products
+- ماكينات تصوير أبيض وأسود: https://eladlshop.vercel.app/black-white-copiers
+- ماكينات تصوير ألوان: https://eladlshop.vercel.app/color-copiers
+- الطابعات: https://eladlshop.vercel.app/photographic-printers
+- الأحبار والمستهلكات: https://eladlshop.vercel.app/digital-toners
+- قطع الغيار: https://eladlshop.vercel.app/black-white-parts
 - المقالات والعروض: https://eladlshop.vercel.app/articles
-- الدعم الفني: https://eladlshop.vercel.app/tech-support
-- تواصل معنا: https://eladlshop.vercel.app/about
+- من نحن: https://eladlshop.vercel.app/about
+- تواصل معنا: https://eladlshop.vercel.app/contact
 
-## ملاحظات للفهم الآلي
-هذا الموقع يعرض منتجات وخدمات شركة العدل في ماكينات التصوير والطابعات، خصوصًا Ricoh، مع أقسام للأجهزة والأحبار وقطع الغيار وخدمات الصيانة.
+## Main Topics
+ماكينات تصوير، طابعات، Ricoh، أحبار، تونر، قطع غيار، صيانة ماكينات تصوير، ماكينات تصوير ألوان، ماكينات تصوير أبيض وأسود.
+
+## Contact
+Phone: 01094799247
+Location: شارع شباب، بجوار مسجد السلام، جمصة، الدقهلية، مصر.
