@@ -19,7 +19,7 @@
       ]
     },
     {
-      "source": "/whatsapp-preview-v17.jpg",
+      "source": "/whatsapp-preview-v17.webp",
       "headers": [
         {
           "key": "Cache-Control",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "source": "/site-preview.png",
+      "source": "/site-preview.webp",
       "headers": [
         {
           "key": "Cache-Control",
