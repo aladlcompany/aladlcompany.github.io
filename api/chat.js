@@ -11,7 +11,7 @@ const WHATSAPP_LOCAL = '01094799247';
 const EMBEDDED_PRODUCTS = [
   {
     "name": "ريكو Aficio MP 161",
-    "image": "images/MP 161.png",
+    "image": "images/MP 161.webp",
     "condition": "",
     "speed": "16 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -57,11 +57,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 161"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 161"
   },
   {
     "name": "ريكو Aficio MP 171",
-    "image": "images/MP 171.png",
+    "image": "images/MP 171.webp",
     "condition": "",
     "speed": "17 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -107,11 +107,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 171"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 171"
   },
   {
     "name": "ريكو Aficio MP 201",
-    "image": "images/MP 201.png",
+    "image": "images/MP 201.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -157,11 +157,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 201"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 201"
   },
   {
     "name": "ريكو Aficio MP 301",
-    "image": "images/MP 301.png",
+    "image": "images/MP 301.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -207,11 +207,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 301"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 301"
   },
   {
     "name": "ريكو Aficio MP 2352",
-    "image": "images/MP 2352.png",
+    "image": "images/MP 2352.webp",
     "condition": "",
     "speed": "23 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -257,11 +257,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 2352"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 2352"
   },
   {
     "name": "ريكو Aficio MP 2851",
-    "image": "images/MP 2851.png",
+    "image": "images/MP 2851.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -307,11 +307,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 2851"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 2851"
   },
   {
     "name": "ريكو Aficio MP 2852",
-    "image": "images/MP 2852.png",
+    "image": "images/MP 2852.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -357,11 +357,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 2852"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 2852"
   },
   {
     "name": "ريكو Aficio MP 3352",
-    "image": "images/MP 3352.png",
+    "image": "images/MP 3352.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -407,11 +407,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 3352"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 3352"
   },
   {
     "name": "ريكو Aficio MP 4000",
-    "image": "images/MP 4000.png",
+    "image": "images/MP 4000.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -457,11 +457,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 4000"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 4000"
   },
   {
     "name": "ريكو Aficio MP 4001",
-    "image": "images/MP 4001.png",
+    "image": "images/MP 4001.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -507,11 +507,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 4001"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 4001"
   },
   {
     "name": "ريكو Aficio MP 5000",
-    "image": "images/MP 5000.png",
+    "image": "images/MP 5000.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -557,11 +557,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 5000"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 5000"
   },
   {
     "name": "ريكو Aficio MP 5001",
-    "image": "images/MP 5001.png",
+    "image": "images/MP 5001.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600 dpi",
@@ -607,11 +607,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 5001"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 5001"
   },
   {
     "name": "ريكو Aficio MP 4002",
-    "image": "images/MP 4002.png",
+    "image": "images/MP 4002.webp",
     "condition": "عرض خاص",
     "speed": "40 ورقة / دقيقة",
     "resolution": "600X600 dpi",
@@ -657,11 +657,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 4002"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 4002"
   },
   {
     "name": "ريكو Aficio MP 5002",
-    "image": "images/MP 5002.png",
+    "image": "images/MP 5002.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -703,11 +703,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP 5002"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP 5002"
   },
   {
     "name": "ريكو MP 2001",
-    "image": "images/MP 2001.png",
+    "image": "images/MP 2001.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -745,11 +745,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 2001"
+    "detailsUrl": "/products#product-details/ريكو MP 2001"
   },
   {
     "name": "ريكو MP 2501",
-    "image": "images/MP 2501.png",
+    "image": "images/MP 2501.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -787,11 +787,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 2501"
+    "detailsUrl": "/products#product-details/ريكو MP 2501"
   },
   {
     "name": "ريكو MP 3053",
-    "image": "images/MP 3053.png",
+    "image": "images/MP 3053.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -829,11 +829,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 3053"
+    "detailsUrl": "/products#product-details/ريكو MP 3053"
   },
   {
     "name": "ريكو MP 3353",
-    "image": "images/MP 3353.png",
+    "image": "images/MP 3353.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "600x600 dpi",
@@ -871,11 +871,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 3353"
+    "detailsUrl": "/products#product-details/ريكو MP 3353"
   },
   {
     "name": "ريكو MP 3054",
-    "image": "images/MP 3054.png",
+    "image": "images/MP 3054.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -921,11 +921,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 3054"
+    "detailsUrl": "/products#product-details/ريكو MP 3054"
   },
   {
     "name": "ريكو MP 3554",
-    "image": "images/MP 3554.png",
+    "image": "images/MP 3554.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -971,11 +971,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 3554"
+    "detailsUrl": "/products#product-details/ريكو MP 3554"
   },
   {
     "name": "ريكو MP 4054",
-    "image": "images/MP 4054.png",
+    "image": "images/MP 4054.webp",
     "condition": "حديث",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1021,11 +1021,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "أبيض وأسود",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير أبيض وأسود",
-    "detailsUrl": "/products.html#product-details/ريكو MP 4054"
+    "detailsUrl": "/products#product-details/ريكو MP 4054"
   },
   {
     "name": "ريكو Aficio MP C305",
-    "image": "images/Mp C305.png",
+    "image": "images/Mp C305.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200 * 1200",
@@ -1038,11 +1038,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP C305"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP C305"
   },
   {
     "name": "ريكو Aficio MP C307",
-    "image": "images/Mp C307.png",
+    "image": "images/Mp C307.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200 * 1200",
@@ -1055,11 +1055,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو Aficio MP C307"
+    "detailsUrl": "/products#product-details/ريكو Aficio MP C307"
   },
   {
     "name": "ريكو SP C430",
-    "image": "images/SP C430.png",
+    "image": "images/SP C430.webp",
     "condition": "",
     "speed": "37 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1109,11 +1109,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C430"
+    "detailsUrl": "/products#product-details/ريكو SP C430"
   },
   {
     "name": "ريكو SP C431",
-    "image": "images/SP C431.png",
+    "image": "images/SP C431.webp",
     "condition": "",
     "speed": "42 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1163,11 +1163,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C431"
+    "detailsUrl": "/products#product-details/ريكو SP C431"
   },
   {
     "name": "ريكو MP C300",
-    "image": "images/MP C300.png",
+    "image": "images/MP C300.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1213,11 +1213,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C300"
+    "detailsUrl": "/products#product-details/ريكو MP C300"
   },
   {
     "name": "ريكو MP C400",
-    "image": "images/MP C400.png",
+    "image": "images/MP C400.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1263,11 +1263,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C400"
+    "detailsUrl": "/products#product-details/ريكو MP C400"
   },
   {
     "name": "ريكو MP C401",
-    "image": "images/MP C401.png",
+    "image": "images/MP C401.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1313,11 +1313,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C401"
+    "detailsUrl": "/products#product-details/ريكو MP C401"
   },
   {
     "name": "ريكو SP C820",
-    "image": "images/SP C820.png",
+    "image": "images/SP C820.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1367,11 +1367,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C820"
+    "detailsUrl": "/products#product-details/ريكو SP C820"
   },
   {
     "name": "ريكو SP C830",
-    "image": "images/SP C830.png",
+    "image": "images/SP C830.webp",
     "condition": "",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1421,11 +1421,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C830"
+    "detailsUrl": "/products#product-details/ريكو SP C830"
   },
   {
     "name": "ريكو MP C2050",
-    "image": "images/MP C2050.png",
+    "image": "images/MP C2050.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1471,11 +1471,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2050"
+    "detailsUrl": "/products#product-details/ريكو MP C2050"
   },
   {
     "name": "ريكو MP C2550",
-    "image": "images/MP C2550.png",
+    "image": "images/MP C2550.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1521,11 +1521,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2550"
+    "detailsUrl": "/products#product-details/ريكو MP C2550"
   },
   {
     "name": "ريكو MP C2051",
-    "image": "images/MP C2051.png",
+    "image": "images/MP C2051.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1571,11 +1571,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2051"
+    "detailsUrl": "/products#product-details/ريكو MP C2051"
   },
   {
     "name": "ريكو MP C2551",
-    "image": "images/MP C2551.png",
+    "image": "images/MP C2551.webp",
     "condition": "",
     "speed": "25 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1621,11 +1621,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2551"
+    "detailsUrl": "/products#product-details/ريكو MP C2551"
   },
   {
     "name": "ريكو MP C2800",
-    "image": "images/MP C2800.png",
+    "image": "images/MP C2800.webp",
     "condition": "",
     "speed": "28 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1671,11 +1671,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2800"
+    "detailsUrl": "/products#product-details/ريكو MP C2800"
   },
   {
     "name": "ريكو MP C3300",
-    "image": "images/MP C3300.png",
+    "image": "images/MP C3300.webp",
     "condition": "",
     "speed": "33 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1717,11 +1717,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3300"
+    "detailsUrl": "/products#product-details/ريكو MP C3300"
   },
   {
     "name": "ريكو MP C4000",
-    "image": "images/MP C4000.png",
+    "image": "images/MP C4000.webp",
     "condition": "",
     "speed": "40 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1763,11 +1763,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C4000"
+    "detailsUrl": "/products#product-details/ريكو MP C4000"
   },
   {
     "name": "ريكو MP C5000",
-    "image": "images/MP C5000.png",
+    "image": "images/MP C5000.webp",
     "condition": "",
     "speed": "50 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1809,11 +1809,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C5000"
+    "detailsUrl": "/products#product-details/ريكو MP C5000"
   },
   {
     "name": "ريكو MP C3002",
-    "image": "images/MP C3002.png",
+    "image": "images/MP C3002.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1859,11 +1859,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3002"
+    "detailsUrl": "/products#product-details/ريكو MP C3002"
   },
   {
     "name": "ريكو MP C3502",
-    "image": "images/MP C3502.png",
+    "image": "images/MP C3502.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1909,11 +1909,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3502"
+    "detailsUrl": "/products#product-details/ريكو MP C3502"
   },
   {
     "name": "ريكو MP C4502",
-    "image": "images/MP C4502.png",
+    "image": "images/MP C4502.webp",
     "condition": "",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -1959,11 +1959,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C4502"
+    "detailsUrl": "/products#product-details/ريكو MP C4502"
   },
   {
     "name": "ريكو MP C5502",
-    "image": "images/MP C5502.png",
+    "image": "images/MP C5502.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2009,11 +2009,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C5502"
+    "detailsUrl": "/products#product-details/ريكو MP C5502"
   },
   {
     "name": "ريكو MP C3003",
-    "image": "images/MP C3003.png",
+    "image": "images/MP C3003.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2059,11 +2059,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3003"
+    "detailsUrl": "/products#product-details/ريكو MP C3003"
   },
   {
     "name": "ريكو MP C3503",
-    "image": "images/MP C3503.png",
+    "image": "images/MP C3503.webp",
     "condition": "",
     "speed": "35 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2109,11 +2109,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3503"
+    "detailsUrl": "/products#product-details/ريكو MP C3503"
   },
   {
     "name": "ريكو MP C4503",
-    "image": "images/MP C4503.png",
+    "image": "images/MP C4503.webp",
     "condition": "الأكثر مبيعاً",
     "speed": "45 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2155,11 +2155,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C4503"
+    "detailsUrl": "/products#product-details/ريكو MP C4503"
   },
   {
     "name": "ريكو MP C3004",
-    "image": "images/MP C3004.png",
+    "image": "images/MP C3004.webp",
     "condition": "",
     "speed": "30 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2197,11 +2197,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C3004"
+    "detailsUrl": "/products#product-details/ريكو MP C3004"
   },
   {
     "name": "ريكو MP C2004",
-    "image": "images/MP C2004.png",
+    "image": "images/MP C2004.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2239,11 +2239,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2004"
+    "detailsUrl": "/products#product-details/ريكو MP C2004"
   },
   {
     "name": "ريكو MP C2003",
-    "image": "images/MP C2003.png",
+    "image": "images/MP C2003.webp",
     "condition": "",
     "speed": "20 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2277,11 +2277,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C2003"
+    "detailsUrl": "/products#product-details/ريكو MP C2003"
   },
   {
     "name": "ريكو SP C440",
-    "image": "images/SP C440.png",
+    "image": "images/SP C440.webp",
     "condition": "",
     "speed": "42 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2319,11 +2319,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C440"
+    "detailsUrl": "/products#product-details/ريكو SP C440"
   },
   {
     "name": "ريكو SP C842",
-    "image": "images/SP C842.png",
+    "image": "images/SP C842.webp",
     "condition": "",
     "speed": "60 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2357,11 +2357,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C842"
+    "detailsUrl": "/products#product-details/ريكو SP C842"
   },
   {
     "name": "ريكو MP C5503",
-    "image": "images/MP C5503.png",
+    "image": "images/MP C5503.webp",
     "condition": "استيراد",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2403,11 +2403,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C5503"
+    "detailsUrl": "/products#product-details/ريكو MP C5503"
   },
   {
     "name": "ريكو MP C5504",
-    "image": "images/MP C5504.png",
+    "image": "images/MP C5504.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2445,11 +2445,11 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو MP C5504"
+    "detailsUrl": "/products#product-details/ريكو MP C5504"
   },
   {
     "name": "ريكو SP C831",
-    "image": "images/SP C831.png",
+    "image": "images/SP C831.webp",
     "condition": "",
     "speed": "55 ورقة / دقيقة",
     "resolution": "1200x1200 dpi",
@@ -2499,7 +2499,7 @@ const EMBEDDED_PRODUCTS = [
     "colorMode": "ألوان",
     "paperFormat": "A3/A4",
     "categoryLabel": "ماكينات تصوير ألوان",
-    "detailsUrl": "/products.html#product-details/ريكو SP C831"
+    "detailsUrl": "/products#product-details/ريكو SP C831"
   }
 ];
 const EMBEDDED_PAPER = [
@@ -2508,191 +2508,191 @@ const EMBEDDED_PAPER = [
     "price": "670",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/omnia-a4-80.png"
+    "image": "paper/omnia-a4-80.webp"
   },
   {
     "name": "مرام",
     "price": "580",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/maram-a4-70.png"
+    "image": "paper/maram-a4-70.webp"
   },
   {
     "name": "شيمكس",
     "price": "655",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/chamex-a4-80.png"
+    "image": "paper/chamex-a4-80.webp"
   },
   {
     "name": "شيمكس",
     "price": "600",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/chamex-a4-70.png"
+    "image": "paper/chamex-a4-70.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "675",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/projecta-a4-80.png"
+    "image": "paper/projecta-a4-80.webp"
   },
   {
     "name": "ازهار احمر",
     "price": "490",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/azhar-red-a4-70.png"
+    "image": "paper/azhar-red-a4-70.webp"
   },
   {
     "name": "مالتي أوفيس",
     "price": "725",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/multioffice-a4-80.png"
+    "image": "paper/multioffice-a4-80.webp"
   },
   {
     "name": "ازهار",
     "price": "565",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/azhar-a4-70.png"
+    "image": "paper/azhar-a4-70.webp"
   },
   {
     "name": "بيبروان",
     "price": "700",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/paperone-a4-80.png"
+    "image": "paper/paperone-a4-80.webp"
   },
   {
     "name": "ارتورك",
     "price": "575",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/artwork-a4-70.png"
+    "image": "paper/artwork-a4-70.webp"
   },
   {
     "name": "بريو",
     "price": "645",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/brio-a4-80.png"
+    "image": "paper/brio-a4-80.webp"
   },
   {
     "name": "ايكوروكس",
     "price": "570",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/ecorox-a4-70.png"
+    "image": "paper/ecorox-a4-70.webp"
   },
   {
     "name": "ازهار",
     "price": "685",
     "size": "A4",
     "weight": "80 جم",
-    "image": "paper/azhar-laser-a4-80.png"
+    "image": "paper/azhar-laser-a4-80.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "595",
     "size": "A4",
     "weight": "70 جم",
-    "image": "paper/projecta-green-a4-70.png"
+    "image": "paper/projecta-green-a4-70.webp"
   },
   {
     "name": "بروجيكتا",
     "price": "1250",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/projecta-a3-80.png"
+    "image": "paper/projecta-a3-80.webp"
   },
   {
     "name": "مالتي أوفيس",
     "price": "1400",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/multioffice-a3-80.png"
+    "image": "paper/multioffice-a3-80.webp"
   },
   {
     "name": "شيمكس",
     "price": "1285",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/chamex-a3-80.png"
+    "image": "paper/chamex-a3-80.webp"
   },
   {
     "name": "أمنيه",
     "price": "1275",
     "size": "A3",
     "weight": "80 جم",
-    "image": "paper/omnia-a3-80.png"
+    "image": "paper/omnia-a3-80.webp"
   }
 ];
 const EMBEDDED_TEAM = {
-  "sourcePage": "/about.html",
+  "sourcePage": "/about",
   "sourceLabel": "صفحة من نحن / فريق القيادة والعمل",
   "members": [
     {
       "name": "م / عمرو عبدالستار العدل",
       "role": "المدير العام والمؤسس",
       "details": "يقود فريق العدل برؤية تواكب أحدث تكنولوجيات الطباعة.",
-      "image": "manager.jpg"
+      "image": "manager.webp"
     },
     {
       "name": "م / محمد فؤاد",
       "role": "مدير المبيعات",
       "details": "متابعة السوق وتوفير أنسب الحلول وأنظمة التقسيط والسداد.",
-      "image": "mohamed_fouad.jpg"
+      "image": "mohamed_fouad.webp"
     },
     {
       "name": "م / زياد العدل",
       "role": "مدير الصيانة",
       "details": "يشرف على تدريب وتوجيه فريق الصيانة وحل الأعطال الفنية بسرعة.",
-      "image": "ziad_aladl.jpg"
+      "image": "ziad_aladl.webp"
     },
     {
       "name": "أ / زهرة عبدالفتاح",
       "role": "خدمة العملاء",
       "details": "متابعة بلاغات الأعطال والاستفسارات بسرعة واهتمام.",
-      "image": "zahra_abdelFattah.jpg"
+      "image": "zahra_abdelFattah.webp"
     }
   ]
 };
 const EMBEDDED_SERVICES = {
   "sourcePages": [
-    "/maintenance-contracts.html",
-    "/tech-support.html",
-    "/complaints.html",
-    "/sales.html"
+    "/maintenance-contracts",
+    "/tech-support",
+    "/complaints",
+    "/sales"
   ],
   "company": "شركة العدل لبيع وصيانة الطابعات وماكينات التصوير",
   "whatsapp": "201094799247",
   "services": [
     {
       "name": "بيع ماكينات تصوير وطابعات",
-      "url": "/products.html",
+      "url": "/products",
       "description": "ترشيح ماكينة مناسبة حسب اللون والمقاس وحجم الاستخدام."
     },
     {
       "name": "صيانة ودعم فني",
-      "url": "/tech-support.html",
+      "url": "/tech-support",
       "description": "تسجيل الأعطال ومتابعة الصيانة الفنية."
     },
     {
       "name": "عقود صيانة",
-      "url": "/maintenance-contracts.html",
+      "url": "/maintenance-contracts",
       "description": "عقود صيانة عادية وشاملة وزيارات حرة حسب احتياج العميل."
     },
     {
       "name": "أحبار وقطع غيار",
-      "url": "/color-toners.html",
+      "url": "/color-toners",
       "description": "أحبار وقطع غيار لماكينات التصوير والطابعات حسب التوفر."
     },
     {
       "name": "بورصة أسعار الورق",
-      "url": "/paper-prices.html",
+      "url": "/paper-prices",
       "description": "أسعار استرشادية فقط، والشركة لا تبيع الورق."
     }
   ]
@@ -2708,7 +2708,7 @@ const loadedProducts = readJson('products.json', []);
 const PRODUCTS = Array.isArray(loadedProducts) && loadedProducts.length ? loadedProducts : EMBEDDED_PRODUCTS;
 const loadedPaper = readJson('paper-prices.json', readJson('paper-products.json', []));
 const PAPER = Array.isArray(loadedPaper) && loadedPaper.length ? loadedPaper : EMBEDDED_PAPER;
-const loadedTeam = readJson('team.json', { members: [], sourcePage: '/about.html', sourceLabel: 'صفحة من نحن' });
+const loadedTeam = readJson('team.json', { members: [], sourcePage: '/about', sourceLabel: 'صفحة من نحن' });
 const TEAM = loadedTeam && Array.isArray(loadedTeam.members) && loadedTeam.members.length ? loadedTeam : EMBEDDED_TEAM;
 const loadedServices = readJson('services.json', { services: [] });
 const SERVICES = loadedServices && Array.isArray(loadedServices.services) && loadedServices.services.length ? loadedServices : EMBEDDED_SERVICES;
@@ -2740,7 +2740,7 @@ function validPrice(price) {
   const p = String(price).trim();
   return !!p && !/غير\s*متوفر|غير\s*مذكور|n\/?a|null|undefined|^0$|^0\s*جنيه/i.test(p);
 }
-function absUrl(url) { if (!url) return SITE_URL + '/products.html'; if (/^https?:\/\//i.test(url)) return url; return SITE_URL + (url.startsWith('/') ? url : '/' + url); }
+function absUrl(url) { if (!url) return SITE_URL + '/products'; if (/^https?:\/\//i.test(url)) return url; return SITE_URL + (url.startsWith('/') ? url : '/' + url); }
 function waUrl(message) { return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`; }
 function goButton(url, label) { return `<button type="button" class="ai-btn ai-go-btn" data-goto="${esc(absUrl(url))}">${esc(label)}</button>`; }
 function waButton(message, label = 'استفسر واتساب') { return `<a class="ai-btn ai-wa" href="${esc(waUrl(message))}" target="_blank" rel="noopener">${esc(label)}</a>`; }
@@ -3017,7 +3017,7 @@ function findProducts(q, h = '') {
   if (models.length) return scored.filter(x => x.score >= 600).slice(0, 12).map(x => x.p);
   return scored.filter(x => x.score >= Math.max(1, top - 10)).map(x => x.p);
 }
-function productDetailsUrl(p) { return `/products.html#product-details/${encodeURIComponent(p.name || '')}`; }
+function productDetailsUrl(p) { return `/products#product-details/${encodeURIComponent(p.name || '')}`; }
 function productCard(p, index) {
   const speedLabel = (p.category || '').includes('parts') ? 'الموديلات المتوافقة' : 'السرعة';
   const specs = [p.categoryLabel && `القسم: ${p.categoryLabel}`, p.colorMode && p.colorMode !== 'غير محدد' && `النوع: ${p.colorMode}`, p.paperFormat && p.paperFormat !== 'غير محدد' && `المقاس: ${p.paperFormat}`, p.speed && `${speedLabel}: ${p.speed}`, p.functions && `الوظائف: ${p.functions}`].filter(Boolean);
@@ -3135,9 +3135,9 @@ function paperAnswer(q) {
     return !queryWords.length || queryWords.some(w => hay.includes(w));
   });
   if (!rows.length && PAPER.length) rows = PAPER.filter(item => { const hay = norm(`${item.size || ''} ${item.weight || ''}`); if (wantA3) return /\ba3\b/i.test(hay); if (wantA4) return /\ba4\b/i.test(hay); return true; });
-  if (!rows.length) return `<p>أسعار بورصة الورق غير متاحة حاليًا من ملف البيانات.</p><p class="ai-note"><b>تنبيه:</b> شركة العدل لا تبيع الورق؛ الأسعار استرشادية فقط.</p>${actions([goButton('/paper-prices.html', 'فتح صفحة بورصة الورق')])}`;
+  if (!rows.length) return `<p>أسعار بورصة الورق غير متاحة حاليًا من ملف البيانات.</p><p class="ai-note"><b>تنبيه:</b> شركة العدل لا تبيع الورق؛ الأسعار استرشادية فقط.</p>${actions([goButton('/paper-prices', 'فتح صفحة بورصة الورق')])}`;
   const cards = rows.map((r, i) => { const name = [r.name, r.size, r.weight].filter(Boolean).join(' - '); const price = validPrice(r.price) ? `${r.price} جنيه` : 'السعر غير مذكور'; return `<div class="ai-card"><b>${i + 1}. ${esc(name)}</b><div class="ai-price">${esc(price)}</div></div>`; }).join('');
-  return `<p>دي أسعار بورصة الورق المتاحة من صفحة البورصة:</p>${cards}<p class="ai-note"><b>تنبيه مهم:</b> الأسعار استرشادية وتتغير حسب السوق، وشركة العدل لا تبيع الورق. نشاطنا بيع وصيانة ماكينات التصوير والطابعات والأحبار وقطع الغيار.</p>${actions([goButton('/paper-prices.html', 'فتح صفحة بورصة الورق')])}`;
+  return `<p>دي أسعار بورصة الورق المتاحة من صفحة البورصة:</p>${cards}<p class="ai-note"><b>تنبيه مهم:</b> الأسعار استرشادية وتتغير حسب السوق، وشركة العدل لا تبيع الورق. نشاطنا بيع وصيانة ماكينات التصوير والطابعات والأحبار وقطع الغيار.</p>${actions([goButton('/paper-prices', 'فتح صفحة بورصة الورق')])}`;
 }
 
 function teamAnswer(q) {
@@ -3171,7 +3171,7 @@ function teamAnswer(q) {
 
   if (!members.length) members = TEAM.members || [];
   const cards = members.map((m, i) => `<div class="ai-card"><b>${i + 1}. ${esc(m.name)}</b><div class="ai-price muted">${esc(m.role)}</div><div class="ai-specs">${esc(m.details || '')}</div></div>`).join('');
-  return `<p>تمام، دي البيانات المتاحة من ${esc(TEAM.sourceLabel || 'صفحة من نحن')}:</p>${cards}${actions([goButton(TEAM.sourcePage || '/about.html', 'فتح صفحة فريق العمل')])}`;
+  return `<p>تمام، دي البيانات المتاحة من ${esc(TEAM.sourceLabel || 'صفحة من نحن')}:</p>${cards}${actions([goButton(TEAM.sourcePage || '/about', 'فتح صفحة فريق العمل')])}`;
 }
 function maintenanceRedirectAnswer(message) {
   const text = norm(message || '');
@@ -3185,7 +3185,7 @@ function maintenanceRedirectAnswer(message) {
   if (!hasAny(text, maintenanceWords)) return null;
   const hasMachine = hasAny(text, machineWords) || hasAny(text, ['طلب صيانة', 'اطلب صيانة', 'محتاج صيانة', 'عايز صيانة', 'صيانة لمكنة', 'صيانة ماكينة']);
   if (!hasMachine && !hasAny(text, ['صيانة', 'صيانه', 'عطل', 'مهندس صيانة', 'فني صيانة'])) return null;
-  const url = '/tech-support.html#booking';
+  const url = '/tech-support#booking';
   const reply = `<div class="bot-card"><b>تمام يا فندم، افتح مربع مركز الصيانة وسجّل بيانات الماكينة.</b><br>بعد تسجيل البيانات هيتواصل معاك المختص في أسرع وقت.<br><button type="button" data-ai-action="maintenance-form" style="background:#be123c;color:#fff;border:0;border-radius:999px;padding:10px 18px;font-weight:800;cursor:pointer;box-shadow:0 8px 18px rgba(190,18,60,.25);">افتح مركز الصيانة</button></div>`;
   return { reply, redirectUrl: url };
 }
@@ -3201,12 +3201,12 @@ function serviceAnswer(q) {
 function pageNavigationAnswer(q) {
   if (!hasAny(q, ['افتح','وديني','انتقل','زر','صفحة','صفحه'])) return null;
   const n = norm(q);
-  if (hasAny(n, ['بورصة','ورق'])) return `<p>تفضل زر صفحة بورصة الورق:</p>${actions([goButton('/paper-prices.html', 'فتح بورصة الورق')])}`;
-  if (hasAny(n, ['الوان','ألوان'])) return `<p>تفضل زر ماكينات التصوير الألوان:</p>${actions([goButton('/color-copiers.html', 'فتح ماكينات ألوان')])}`;
-  if (hasAny(n, ['ابيض','اسود'])) return `<p>تفضل زر ماكينات التصوير الأبيض والأسود:</p>${actions([goButton('/black-white-copiers.html', 'فتح ماكينات أبيض وأسود')])}`;
-  if (hasAny(n, ['فريق','من نحن','مدير'])) return `<p>تفضل زر صفحة من نحن وفريق العمل:</p>${actions([goButton('/about.html', 'فتح صفحة من نحن')])}`;
-  if (hasAny(n, ['صيانة','دعم'])) return `<p>تفضل زر الدعم الفني:</p>${actions([goButton('/tech-support.html', 'فتح الدعم الفني')])}`;
-  return `<p>تفضل زر صفحة المنتجات:</p>${actions([goButton('/products.html', 'فتح المنتجات')])}`;
+  if (hasAny(n, ['بورصة','ورق'])) return `<p>تفضل زر صفحة بورصة الورق:</p>${actions([goButton('/paper-prices', 'فتح بورصة الورق')])}`;
+  if (hasAny(n, ['الوان','ألوان'])) return `<p>تفضل زر ماكينات التصوير الألوان:</p>${actions([goButton('/color-copiers', 'فتح ماكينات ألوان')])}`;
+  if (hasAny(n, ['ابيض','اسود'])) return `<p>تفضل زر ماكينات التصوير الأبيض والأسود:</p>${actions([goButton('/black-white-copiers', 'فتح ماكينات أبيض وأسود')])}`;
+  if (hasAny(n, ['فريق','من نحن','مدير'])) return `<p>تفضل زر صفحة من نحن وفريق العمل:</p>${actions([goButton('/about', 'فتح صفحة من نحن')])}`;
+  if (hasAny(n, ['صيانة','دعم'])) return `<p>تفضل زر الدعم الفني:</p>${actions([goButton('/tech-support', 'فتح الدعم الفني')])}`;
+  return `<p>تفضل زر صفحة المنتجات:</p>${actions([goButton('/products', 'فتح المنتجات')])}`;
 }
 
 function isolatedUnknown(q) {
