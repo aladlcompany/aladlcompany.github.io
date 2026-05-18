@@ -1,0 +1,17 @@
+text_files_updated: 42
+html_files: 33
+h1_added: 33
+static_alt_added: 0
+dynamic_alt_files: 33
+html_links_cleaned_est: 4224
+converted_images_total: 112
+vercel_cleanUrls: true
+html_redirects: 33
+llms_txt: added
+
+
+FIX CLEAN INTERNAL LINKS - 2026-05-18
+- Added Vercel rewrites from clean URLs like /about to /about.html.
+- Added folder index fallback pages like /about/index.html so clean URLs work on static hosting too.
+- Patched internal click handler to recognize clean links, not only .html links.
+- Normalized current page detection for /page and /page/ paths to avoid broken/double navigation.
