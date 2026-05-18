@@ -798,6 +798,31 @@ button:disabled, [aria-disabled="true"], .disabled {
   ]
 }
 </script>
+
+<script id="aladl-clean-home-click-fix">
+function goHomeClean(event) {
+  if (event) {
+    try { event.preventDefault(); event.stopPropagation(); } catch(e) {}
+  }
+  try { sessionStorage.setItem('aladlIntentionalTopNavigation', '1'); } catch(e) {}
+  var cleanHomeUrl = window.location.protocol === 'file:' ? 'index.html' : '/';
+  if (window.location.protocol !== 'file:' && window.location.pathname !== '/') {
+    window.location.assign(cleanHomeUrl);
+    return false;
+  }
+  if (window.location.protocol === 'file:' && !/index\.html$/i.test(window.location.pathname)) {
+    window.location.assign(cleanHomeUrl);
+    return false;
+  }
+  try {
+    history.replaceState({ pageId: 'start', cat: 'all', pNum: 1, scrollY: 0, itemId: null }, '', cleanHomeUrl);
+  } catch(e) {}
+  try { navigateTo('start', 'all', false, 0, null, 1, true); } catch(e) {}
+  try { window.scrollTo(0, 0); } catch(e) {}
+  return false;
+}
+</script>
+
 </head>
 <body class="text-gray-800 text-right" id="mainBody" ontouchstart="" style="opacity: 1;">
 <h1 class="seo-static-h1">ماكينات طباعة ديجيتال أبيض وأسود</h1><h2 class="seo-static-h2 sr-only">ماكينات طباعة ديجيتال أبيض وأسود من شركة العدل</h2>
@@ -814,7 +839,7 @@ button:disabled, [aria-disabled="true"], .disabled {
 <button class="text-rose-900 text-3xl font-bold" onclick="toggleMobileMenu()">×</button>
 </div>
 <div class="p-4">
-<div class="mobile-card"><button class="mobile-trigger" onclick="navigateTo('start')"><span>الرئيسية</span><i class="fa fa-home text-rose-700"></i></button></div>
+<div class="mobile-card"><button class="mobile-trigger" onclick="return goHomeClean(event)"><span>الرئيسية</span><i class="fa fa-home text-rose-700"></i></button></div>
 <div class="mobile-card">
 <button class="mobile-trigger" onclick="toggleAccordion('m-who')"><span>من نحن</span><i class="fa fa-chevron-down text-[10px] opacity-30"></i></button>
 <div class="hidden bg-gray-50 pb-2" id="m-who">
@@ -882,7 +907,7 @@ button:disabled, [aria-disabled="true"], .disabled {
 <div class="bg-white container mx-auto px-4 md:px-12 py-3 md:py-4 flex flex-wrap justify-between items-center">
 <div class="flex items-center gap-3">
 <button aria-label="فتح القائمة" class="lg:hidden text-rose-900 text-2xl bg-gray-50 p-2 rounded-xl" onclick="toggleMobileMenu()"><i class="fa fa-bars"></i></button>
-<div class="flex items-center gap-2 cursor-pointer" onclick="navigateTo('start')">
+<div class="flex items-center gap-2 cursor-pointer" onclick="return goHomeClean(event)">
 <img alt="لوجو شركة العدل" class="w-10 h-10 md:w-16 md:h-16 object-contain" onerror="this.src=''" src="logo.webp"/>
 <div class="text-right">
 <span class="text-base md:text-2xl font-black text-rose-950 block leading-none">شركة العدل</span>
@@ -906,7 +931,7 @@ button:disabled, [aria-disabled="true"], .disabled {
 </div>
 <nav class="bg-white border-t border-gray-100 hidden lg:block shadow-sm">
 <div class="container mx-auto px-12 flex justify-start gap-x-8 font-black text-gray-600 text-sm">
-<a class="py-5 hover:text-rose-700 transition cursor-pointer" href="/" onclick="navigateTo('start')">الرئيسية</a>
+<a class="py-5 hover:text-rose-700 transition cursor-pointer" href="/" onclick="return goHomeClean(event)">الرئيسية</a>
 <div class="dropdown-container">
 <button class="py-5 flex items-center gap-2">من نحن <i class="fa fa-chevron-down text-[9px] opacity-40"></i></button>
 <div class="dropdown-menu text-right">
@@ -1181,7 +1206,7 @@ button:disabled, [aria-disabled="true"], .disabled {
 <!-- شريط العودة للرئيسية -->
 <div class="w-full bg-[#2f3f66] text-white py-2 px-4 mb-6 shadow-md">
 <div class="container mx-auto max-w-6xl flex justify-start">
-<button class="flex items-center gap-2 text-sm md:text-base font-bold hover:text-[#f6bd27] transition-colors focus:outline-none" onclick="navigateTo('start')">
+<button class="flex items-center gap-2 text-sm md:text-base font-bold hover:text-[#f6bd27] transition-colors focus:outline-none" onclick="return goHomeClean(event)">
 <i class="fa fa-arrow-right"></i>
                     العودة للصفحة الرئيسية
                 </button>
@@ -1245,7 +1270,7 @@ button:disabled, [aria-disabled="true"], .disabled {
 <p class="relative z-10 text-gray-500 font-bold text-base md:text-lg max-w-xl leading-relaxed mb-8">
                     نعمل على إعداد قائمة بأبرز عملائنا وشركاء النجاح الذين نعتز بثقتهم في خدماتنا.. ترقبوا الإضافة قريباً!
                 </p>
-<button class="relative z-10 bg-rose-700 text-white hover:bg-rose-800 px-8 py-3.5 rounded-2xl font-black transition-all transform hover:-translate-y-1 shadow-lg flex items-center gap-3" onclick="navigateTo('start')">
+<button class="relative z-10 bg-rose-700 text-white hover:bg-rose-800 px-8 py-3.5 rounded-2xl font-black transition-all transform hover:-translate-y-1 shadow-lg flex items-center gap-3" onclick="return goHomeClean(event)">
 <i class="fa fa-home"></i> العودة للرئيسية
                 </button>
 </div>
