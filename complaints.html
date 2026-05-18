@@ -876,6 +876,25 @@ function goHomeClean(event) {
 }
 </script>
 
+
+<script id="aladl-dynamic-route-prehide">
+(function () {
+  var p = window.location.pathname || '';
+  if (/^\/(product-details|articles|news|sales)\//.test(p)) {
+    document.documentElement.classList.add('aladl-dynamic-route-loading');
+  }
+  setTimeout(function () {
+    document.documentElement.classList.remove('aladl-dynamic-route-loading');
+    var b = document.getElementById('mainBody') || document.body;
+    if (b) b.style.opacity = '1';
+  }, 2500);
+})();
+</script>
+<style id="aladl-dynamic-route-prehide-style">
+html.aladl-dynamic-route-loading body { opacity: 0 !important; }
+html.aladl-dynamic-route-loading { background: #fff; }
+</style>
+
 </head>
 <body class="text-gray-800 text-right" id="mainBody" ontouchstart="" style="opacity: 1;">
 <h1 class="seo-static-h1">الشكاوى والمقترحات</h1><h2 class="seo-static-h2 sr-only">الشكاوى والمقترحات من شركة العدل</h2>
@@ -4021,6 +4040,11 @@ function goHomeClean(event) {
             if (!href || href.startsWith('#') || anchor.target === '_blank') return;
             if (/^(tel:|mailto:|javascript:|https?:\/\/|wa\.me|whatsapp:)/i.test(href)) return;
 
+            // Dynamic detail links already have inline JS that opens the correct item and updates history.
+            // Do not force a full page reload here; otherwise the user briefly sees the homepage first.
+            const inlineHandler = anchor.getAttribute('onclick') || '';
+            if (/openProductDetails|openSingleArticle|openSingleNews/i.test(inlineHandler)) return;
+
             const isInternalPageLink = /^[^#?]+\.html(\?|#|$)/i.test(href) || href === '/' || href.startsWith('./') || href.startsWith('/');
             if (!isInternalPageLink) return;
 
@@ -4103,6 +4127,10 @@ function goHomeClean(event) {
                     navigateTo(pageId, (new URLSearchParams(window.location.search)).get('cat') || window.ALADL_INITIAL_CATEGORY || 'all', false, savedScroll, null, 1, true);
                 }
             }
+
+            document.documentElement.classList.remove('aladl-dynamic-route-loading');
+            const mainBodyEl = document.getElementById('mainBody') || document.body;
+            if (mainBodyEl) mainBodyEl.style.opacity = '1';
 
             if (savedScroll > 0) {
                 setTimeout(() => window.scrollTo(0, savedScroll), 100);
