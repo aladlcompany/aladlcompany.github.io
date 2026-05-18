@@ -70,5 +70,174 @@
         }
       ]
     }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/appliances.html",
+      "destination": "/appliances",
+      "permanent": true
+    },
+    {
+      "source": "/articles.html",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
+      "source": "/black-white-copiers.html",
+      "destination": "/black-white-copiers",
+      "permanent": true
+    },
+    {
+      "source": "/black-white-parts.html",
+      "destination": "/black-white-parts",
+      "permanent": true
+    },
+    {
+      "source": "/black-white-toners.html",
+      "destination": "/black-white-toners",
+      "permanent": true
+    },
+    {
+      "source": "/clients.html",
+      "destination": "/clients",
+      "permanent": true
+    },
+    {
+      "source": "/color-copier-parts.html",
+      "destination": "/color-copier-parts",
+      "permanent": true
+    },
+    {
+      "source": "/color-copiers.html",
+      "destination": "/color-copiers",
+      "permanent": true
+    },
+    {
+      "source": "/color-toners.html",
+      "destination": "/color-toners",
+      "permanent": true
+    },
+    {
+      "source": "/complaints.html",
+      "destination": "/complaints",
+      "permanent": true
+    },
+    {
+      "source": "/digital-bw-printers.html",
+      "destination": "/digital-bw-printers",
+      "permanent": true
+    },
+    {
+      "source": "/digital-color-printers.html",
+      "destination": "/digital-color-printers",
+      "permanent": true
+    },
+    {
+      "source": "/digital-printer-parts.html",
+      "destination": "/digital-printer-parts",
+      "permanent": true
+    },
+    {
+      "source": "/digital-toners.html",
+      "destination": "/digital-toners",
+      "permanent": true
+    },
+    {
+      "source": "/faq.html",
+      "destination": "/faq",
+      "permanent": true
+    },
+    {
+      "source": "/gallery.html",
+      "destination": "/gallery",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/inkjet-printers.html",
+      "destination": "/inkjet-printers",
+      "permanent": true
+    },
+    {
+      "source": "/maintenance-contracts.html",
+      "destination": "/maintenance-contracts",
+      "permanent": true
+    },
+    {
+      "source": "/medical-printers.html",
+      "destination": "/medical-printers",
+      "permanent": true
+    },
+    {
+      "source": "/news.html",
+      "destination": "/news",
+      "permanent": true
+    },
+    {
+      "source": "/outdoor-plotter.html",
+      "destination": "/outdoor-plotter",
+      "permanent": true
+    },
+    {
+      "source": "/paper-prices.html",
+      "destination": "/paper-prices",
+      "permanent": true
+    },
+    {
+      "source": "/photographic-printers.html",
+      "destination": "/photographic-printers",
+      "permanent": true
+    },
+    {
+      "source": "/plotter-parts.html",
+      "destination": "/plotter-parts",
+      "permanent": true
+    },
+    {
+      "source": "/plotter-toners.html",
+      "destination": "/plotter-toners",
+      "permanent": true
+    },
+    {
+      "source": "/plotters.html",
+      "destination": "/plotters",
+      "permanent": true
+    },
+    {
+      "source": "/post-print-machines.html",
+      "destination": "/post-print-machines",
+      "permanent": true
+    },
+    {
+      "source": "/products.html",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/sales.html",
+      "destination": "/sales",
+      "permanent": true
+    },
+    {
+      "source": "/service-manual.html",
+      "destination": "/service-manual",
+      "permanent": true
+    },
+    {
+      "source": "/tech-support.html",
+      "destination": "/tech-support",
+      "permanent": true
+    }
   ]
 }
