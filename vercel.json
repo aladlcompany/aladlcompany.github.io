@@ -52,8 +52,21 @@
           "value": "application/xml; charset=utf-8"
         },
         {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/sitemap-simple.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
         }
       ]
     },
@@ -65,8 +78,8 @@
           "value": "text/plain; charset=utf-8"
         },
         {
-          "key": "Cache-Control",
-          "value": "no-cache, no-store, must-revalidate"
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
         }
       ]
     }
