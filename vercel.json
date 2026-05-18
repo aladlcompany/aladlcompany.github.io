@@ -243,19 +243,35 @@
   "rewrites": [
     {
       "source": "/product-details/:path*",
-      "destination": "/index.html"
+      "destination": "/"
+    },
+    {
+      "source": "/article-details/:path*",
+      "destination": "/"
     },
     {
       "source": "/articles/:path*",
-      "destination": "/index.html"
+      "destination": "/"
+    },
+    {
+      "source": "/news-details/:path*",
+      "destination": "/"
     },
     {
       "source": "/news/:path*",
-      "destination": "/index.html"
+      "destination": "/"
+    },
+    {
+      "source": "/offer-details/:path*",
+      "destination": "/"
+    },
+    {
+      "source": "/sales/:path*",
+      "destination": "/"
     },
     {
       "source": "/:path*",
-      "destination": "/index.html"
+      "destination": "/"
     }
   ]
 }
