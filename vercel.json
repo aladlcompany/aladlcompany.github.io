@@ -239,5 +239,19 @@
       "destination": "/tech-support",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/product-details/:slug",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/articles/:slug",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/news/:slug",
+      "destination": "/index.html"
+    }
   ]
 }
